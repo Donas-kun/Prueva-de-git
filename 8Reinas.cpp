@@ -66,6 +66,7 @@ void Resolver(int x){
 		array[x]=100;
 	}
 }
+// edicion mamalona xddd
 int main(){
 	for(int i=0;i<8;i++){
 		for(int j=0;j<8;j++){
